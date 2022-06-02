@@ -1,1 +1,3 @@
 This Is trial file second
+im adding few line that doesn't matter anything
+if you want to learn github plz checkout internet
